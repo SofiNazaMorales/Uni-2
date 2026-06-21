@@ -1,4 +1,4 @@
-_esta información es la misma que en la carpeta adjunta_
+
 # Calculadora de Ruta más corta entre Ciudades de Japón
 Proyecto realizado para la asignatura de Matemática Discreta.
 
