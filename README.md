@@ -1,6 +1,15 @@
 # Calculadora de Ruta más corta entre Ciudades de Japón
 Proyecto realizado para la asignatura de Matemática Discreta.
 
+# Repositorio
+En los archivos adjuntos se encuentran:
+
+_Codigo fuente_  `mate_discreta_.py ` : programa de python del proyecto
+
+_Requerimientos_  `requirements.txt ` : bibliotecas necesarias para ejecutar
+
+_Fuentes de datos utilizados_  ` datos_grafo.csv ` : archivo que almacena las ciudades y distancias utilizadas
+
 # Descripción
 Este programa permite encontrar la ruta más corta entre ciudades de Japón utilizando el algoritmo de Dijkstra.
 El usuario puede seleccionar una ciudad de origen y una ciudad de destino mediante una interfaz gráfica. Luego, el programa muestra la ruta encontrada, la distancia total recorrida y la cantidad de ciudades por las que pasa el recorrido.
