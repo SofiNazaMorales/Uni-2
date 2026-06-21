@@ -39,6 +39,6 @@ El archivo `mate_discreta.py` esta organizado en bloques:
 
 # Integrantes
 - Vicente Barrientos
-- Diego Fonseca
+- Diego Vasquez
 - Macarena Melin
 - Sofía Morales
